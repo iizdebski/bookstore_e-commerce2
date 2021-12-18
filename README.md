@@ -32,41 +32,41 @@
 ---------------------------------------------------------------------
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_01.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_02.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_03.JPG"> 
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_03.JPG"> 
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_04.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_05.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_06.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_07.JPG"> 
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_07.JPG"> 
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_08.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_08.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_09.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_09.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/bookstore_e-commerce/blob/main/images/book_11.JPG">
+<img src="https://github.com/iizdebski/bookstore_e-commerce2/blob/main/images/book_11.JPG">
 </p>
